@@ -1,8 +1,8 @@
 # Simple Python Code
 name = input("Aapka naam kya hai? ")
-print(f"Hello, {name}! Welcome to Python.")
+print(f"Hi , {name}! Welcome to Python.")
 
 # Chota sa calculation
-x = 10
+x = 30
 y = 20
-print("10 + 20 =", x + y)
+print("30 + 20 =", x + y)
